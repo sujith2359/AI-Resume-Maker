@@ -35,7 +35,7 @@ const page = () => {
                         <IoIosRocket />
                     </Link>
 
-                    <a href="https://github.com/devXprite/resumave" className="btn w-full md:w-auto">
+                    <a href="https://github.com/sujith2359/AI-Resume-Maker.git" className="btn w-full md:w-auto">
                         <span>View Source</span>
                         <FaGithub />
                     </a>
